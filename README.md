@@ -1,4 +1,4 @@
-# PDF-to-TEXT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reirualluap/PDF-to-TEXT/blob/main/pdf_to_text.ipynb])
+# PDF-to-TEXT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reirualluap/PDF-to-TEXT/blob/main/pdf_to_text.ipynb)
 Transform any .pdf to an .txt file in a few second
 
 # Require : 
